@@ -1,0 +1,3 @@
+[submodule "rsvpweb3"]
+	path = rsvpweb3
+	url = ./GraphRsvp
